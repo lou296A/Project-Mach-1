@@ -31,3 +31,6 @@ use lora without datarate limitations (so not lorawan)
 # HopeRF RFM95/98
 
 - Link: https://www.hoperf.com/modules/lora/RFM95.html
+
+#XBEE 868LP
+https://docs.rs-online.com/d0cc/0900766b8148f252.pdf
